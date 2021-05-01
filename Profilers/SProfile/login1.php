@@ -5,7 +5,7 @@
 	
 	if ($username&&$password)
 	{
-		$mysqli = new mysqli('details4','details4','Xie@campus','den1.mysql5.gear.host');
+		$mysqli = new mysqli('details4','details4','Xie@campus','mysql5.gear.host');
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
