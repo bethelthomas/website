@@ -5,7 +5,7 @@
 	<!--favicon-->
 		<link rel="shortcut icon" href="favicon.png" type="image/icon">
 		<link rel="icon" href="favicon.png" type="image/icon">
-<title>CIT-PMS | Contact Us</title>
+<title>XIE</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Tillage Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
@@ -166,24 +166,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>
 						<li>
-							<a href="#" class="twitter"> </a>
+							<a href="https://twitter.com/csi_xie" class="twitter"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter facebook"> </a>
+							<a href="https://www.facebook.com/pages/category/School/Xavier-Institute-Of-Engineering-Mahim-Mumbai-148763035156288/" class="twitter facebook"> </a>
+						</li>
+						
+						<li>
+							<a href="https://in.pinterest.com/" class="twitter pinterest"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter chrome"> </a>
+							<a href="https://www.linkedin.com/school/xavier-institute-of-engineering/?originalSubdomain=in" class="twitter linkedin"> </a>
 						</li>
-						<li>
-							<a href="#" class="twitter pinterest"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter linkedin"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter dribbble"> </a>
-						</li>
+						
 					</ul>
+				
 				</div>
 				<div class="clearfix"></div>
 			</div>

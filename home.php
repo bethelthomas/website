@@ -46,7 +46,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand page-scroll" href="http://www.cittumkur.org">Xavier Institute Of Engineering</a>
+                    <a class="navbar-brand page-scroll" href="https://www.xavier.ac.in">Xavier Institute Of Engineering</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -101,7 +101,7 @@
             <i class="fas fa-star-half"></i>
         </div>
         <a href="#" class="title">Learn C++</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        <p>This Specialization is intended for all programming enthusiasts, as well as beginners, computer and other scientists, and artificial intelligence enthusiasts seeking to develop their programming skills in the foundational languages of C++. </p>
         <div class="info">
             <h3> <i class="far fa-clock"></i> 2 hours </h3>
             <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
@@ -122,11 +122,11 @@
             <i class="fas fa-star-half"></i>
         </div>
         <a href="#" class="title">Getting started with Java</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        <p>Take your first step towards a career in java. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems.</p>
         <div class="info">
-            <h3> <i class="far fa-clock"></i> 2 hours </h3>
-            <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
-            <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            <h3> <i class="far fa-clock"></i> 33 hours </h3>
+            <h3> <i class="far fa-calendar-alt"></i> 3 months </h3>
+            <h3> <i class="fas fa-book"></i> 18 modules </h3>
         </div>
     </div>
 </div>
@@ -143,11 +143,11 @@
             <i class="fas fa-star-half"></i>
         </div>
         <a href="#" class="title">Python Programming</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        <p>This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. </p>
         <div class="info">
-            <h3> <i class="far fa-clock"></i> 2 hours </h3>
-            <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
-            <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            <h3> <i class="far fa-clock"></i> 40 hours </h3>
+            <h3> <i class="far fa-calendar-alt"></i> 2 months </h3>
+            <h3> <i class="fas fa-book"></i> 14 modules </h3>
         </div>
     </div>
 </div>
@@ -164,11 +164,11 @@
             <i class="fas fa-star-half"></i>
         </div>
         <a href="#" class="title">Advanced Database</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        <p>This specialized program is aimed at computer people who want to enter the field of information systems and learn their different types of requirements, architectures, performance, techniques and tools so you can know when to use business intelligence, data mining, data science, databases , databases in memory or big data in order to have reliable, maintainable and scalable data intensive systems. </p>
         <div class="info">
-            <h3> <i class="far fa-clock"></i> 2 hours </h3>
-            <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
-            <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            <h3> <i class="far fa-clock"></i> 39 hours </h3>
+            <h3> <i class="far fa-calendar-alt"></i> 2 months </h3>
+            <h3> <i class="fas fa-book"></i> 11 modules </h3>
         </div>
     </div>
 </div>
@@ -185,10 +185,10 @@
             <i class="fas fa-star-half"></i>
         </div>
         <a href="#" class="title">Cyber Security</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        <p>Introduction to Cyber Security was designed to help learners develop a deeper understanding of modern information and system protection technology and methods. The learning outcome is simple: We hope learners will develop a lifelong passion and appreciation for cyber security, which we are certain will help in future endeavors. </p>
         <div class="info">
-            <h3> <i class="far fa-clock"></i> 2 hours </h3>
-            <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
+            <h3> <i class="far fa-clock"></i> 29 hours </h3>
+            <h3> <i class="far fa-calendar-alt"></i> 4 months </h3>
             <h3> <i class="fas fa-book"></i> 12 modules </h3>
         </div>
     </div>
@@ -210,11 +210,11 @@
             <i class="fas fa-star-half"></i>
         </div>
         <a href="#" class="title">Javascript</a>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem, beatae. Modi quos excepturi id quibusdam? Molestiae quis nihil non debitis!</p>
+        <p>This course introduces the programming language JavaScript and shows the websites that include the type of interactions students will eventually be able to develop.  Learners will understand the importance of how JavaScript was developed and why such history impacts the way JavaScript is currently written and in future releases.  </p>
         <div class="info">
-            <h3> <i class="far fa-clock"></i> 2 hours </h3>
-            <h3> <i class="far fa-calendar-alt"></i> 6 months </h3>
-            <h3> <i class="fas fa-book"></i> 12 modules </h3>
+            <h3> <i class="far fa-clock"></i> 10 hours </h3>
+            <h3> <i class="far fa-calendar-alt"></i> 1 months </h3>
+            <h3> <i class="fas fa-book"></i> 19 modules </h3>
         </div>
     </div>
 </div>
@@ -297,7 +297,7 @@
 					
 					<p>Mumbai, India</p>
 					<p>08138-223818/223365</p>
-					<a href="mailto:cittumkur@rediffmail.com">office@xavierengg.com</a>
+					<a href="">office@xavierengg.com</a>
 				</div>
 				<div class="col-md-3 ftr-logo">
 					<p>Copyright &copy; 2021  | Developed by

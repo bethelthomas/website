@@ -190,25 +190,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</p>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<ul>
+				<ul>
 						<li>
-							<a href="#" class="twitter"> </a>
+							<a href="https://twitter.com/csi_xie" class="twitter"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter facebook"> </a>
+							<a href="https://www.facebook.com/pages/category/School/Xavier-Institute-Of-Engineering-Mahim-Mumbai-148763035156288/" class="twitter facebook"> </a>
+						</li>
+						
+						<li>
+							<a href="https://in.pinterest.com/" class="twitter pinterest"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter chrome"> </a>
+							<a href="https://www.linkedin.com/school/xavier-institute-of-engineering/?originalSubdomain=in" class="twitter linkedin"> </a>
 						</li>
-						<li>
-							<a href="#" class="twitter pinterest"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter linkedin"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter dribbble"> </a>
-						</li>
+						
 					</ul>
 				</div>
 				<div class="clearfix"></div>

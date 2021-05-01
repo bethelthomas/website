@@ -137,11 +137,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="jumbotron banner-bottom-left wow fadeInLeft animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;	">
 							<h3>Latest Drive</h3>
 							<h5>Drive Description
-								<span>ABC Corporation</span>
+								<span>LTI</span>
 							</h5>
-							<p>Few Lines about Drive</p>
+							<p>Postion :Software Engineer</p>
 							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
+								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.lntinfotech.com/" role="button" >See More</a>
 							</div>
 						</div>
 					</div>
@@ -213,7 +213,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="container">
 				<div class="testimonial-nfo wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<h3>Our Motto</h3>
-					<h5>We Just Learn with you and we give u a Platform to Improve Youirself</span>
+					<h5>To strive to match global standards in Technical Education by Interaction with Industry, Continuous Staff training and Development of quality of life.
+
+</span>
 					</h5>
 				</div>
 				<div class="testimonial-grids wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -295,23 +297,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>
 						<li>
-							<a href="#" class="twitter"> </a>
+							<a href="https://twitter.com/csi_xie" class="twitter"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter facebook"> </a>
+							<a href="https://www.facebook.com/pages/category/School/Xavier-Institute-Of-Engineering-Mahim-Mumbai-148763035156288/" class="twitter facebook"> </a>
+						</li>
+						
+						<li>
+							<a href="https://in.pinterest.com/" class="twitter pinterest"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter chrome"> </a>
+							<a href="https://www.linkedin.com/school/xavier-institute-of-engineering/?originalSubdomain=in" class="twitter linkedin"> </a>
 						</li>
-						<li>
-							<a href="#" class="twitter pinterest"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter linkedin"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter dribbble"> </a>
-						</li>
+						
 					</ul>
 				</div>
 				<div class="clearfix"></div>

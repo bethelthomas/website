@@ -98,8 +98,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<!-- container -->
 			<div class="container">
 				<h3 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">On Going and Upcomming Drives</h3>
-				<h5 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">Cras porttitor imperdiet volutpat nulla malesuada lectus eros
-					<span>ut convallis felis consectetur ut</span>
+				<h5 class="wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;"></span>
 				</h5>
 				<div class="products-top-grids wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<div class="col-md-4 products-grid">
@@ -108,9 +107,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div class="products-text">
 							<h4>Tata Consultency Services</h4>
-							<p>Details about it...</p>
+							<p></p>
 							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="1.php" role="button">See More</a>
+								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.tcs.com/" role="button">See More</a>
 							</div>
 						</div>
 						<div class="clearfix"></div>
@@ -121,9 +120,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 						<div class="products-text">
 							<h4>Infosys</h4>
-							<p>Details</p>
+							<p></p>
 							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="2.php" role="button">See More</a>
+								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.infosys.com/" role="button">See More</a>
 							</div>
 						</div>
 						<div class="clearfix"></div>
@@ -149,7 +148,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="products-text">
 							<h4>Microsoft</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="4.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.microsoft.com/en-in" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -158,9 +157,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>5.</p>
 						</div>
 						<div class="products-text">
-							<h4>Haritha Tech</h4>
+							<h4>Tech Mahindra</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="5.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.techmahindra.com/en-in/?f=566237852" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -169,9 +168,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<p>6.</p>
 						</div>
 						<div class="products-text">
-							<h4>Intel</h4>
+							<h4>Amazon</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="6.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.amazon.jobs/en-gb/" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -286,25 +285,21 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
               <a href="http://znumerique.azurewebsites.net" target="_parent">Xavierites</a>
 				</div>
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-					<ul>
+				<ul>
 						<li>
-							<a href="#" class="twitter"> </a>
+							<a href="https://twitter.com/csi_xie" class="twitter"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter facebook"> </a>
+							<a href="https://www.facebook.com/pages/category/School/Xavier-Institute-Of-Engineering-Mahim-Mumbai-148763035156288/" class="twitter facebook"> </a>
+						</li>
+						
+						<li>
+							<a href="https://in.pinterest.com/" class="twitter pinterest"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter chrome"> </a>
+							<a href="https://www.linkedin.com/school/xavier-institute-of-engineering/?originalSubdomain=in" class="twitter linkedin"> </a>
 						</li>
-						<li>
-							<a href="#" class="twitter pinterest"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter linkedin"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter dribbble"> </a>
-						</li>
+						
 					</ul>
 				</div>
 				<div class="clearfix"></div>

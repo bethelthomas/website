@@ -89,7 +89,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="jumbotron banner-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					  <h3>Placement and Training Department</h3>
 						<h5></span></h5>
-						<p>Our Institute is located near Tumkur, a well known place of learning. Our college is affiliated to Visvesvaraya Technological University, Belgaum (Karnataka), recognized by AICTE, New Delhi, & by Government of Karnataka. Within a short span of 10 years we have made our presence felt strongly in this competitive educational sector and we have many firsts to our credit. Our ISO Certification and NBA Accreditation speak of our commitment to quality systems and education. Our credentials are well appreciated by many industries, engineering institutes, professional bodies, government organizations etc. In the recent past our institute has been rated A Grade and is included among “THE BEST ENGINEERING COLLEGES IN INDIA” by Career360, a popular magazine promoted by OUTLOOK Group. 
+						<p>Training and Placement cell is one of the most vibrant department of the Xavier Institute of Engineering (XIE), Mahim, Mumbai. TPO cell is a cell by the students, for the students and of the students. Hence, their involvement is crucial for it's success. TPO Cell is run and managed by an efficient team of TNP Head along with students Committee. Right from contacting companies to managing all logistics of arranging the pre-placement talks and conducting final interviews the TPO team provides its best possible assistance to the recruiters. The hospitality and the functioning of TPO cell is applauded and well received by the visiting recruiters.
+
+
+ 
 						</p>
 					</div>
 				</div>
@@ -107,13 +110,15 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="about-bottom-grids">
 				<div class="col-md-6 about-bottom-left wow fadeInLeft animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					<h4>What We Offer?</h4>
-					<p>The Institute offers bachelors degree courses in 6 disciplines in Engineering viz. Computer Science and Engineering, Information Science and Engineering, Electronics and communication, Electrical and Electronics, Civil, Mechanical, and 03  post graduate courses viz. M.Tech in Computer Science, M.Tech in Electronics and Master of Business Administration (MBA). The Institute has facilities for doctoral research in Computer Science and Electronics. 
+					<p>We invite Industry to liaison with us for hiring talent from XIE and give them their first opportunity with you and I am sure they will make best use of this opportunity by contributing towards Individual and the organisational progress. I would like to thanks all recruiters – new & loyal – for their continued patronage to campus engagement programs and Campus Placements.
+
+ 
 					</p>
 				</div>
 				<div class="col-md-6 about-bottom-left about-bottom-right wow fadeInRight animated animated" data-wow-delay="0.5s" style="visibility: visible; -webkit-animation-delay: 0.5s;">
 					<h4>We Promote</h4>
-					<p>We wish to bring to your kind notice that for promoting the campus employment opportunities for students of the Engineering Colleges located in the rural areas, we have formed a joint understanding with many other Institutions on full commitment basis. This association is called “ACCESS” - ASSOCIATION OF ENGINEERING COLLEGES FOR THE JOINT CAMPUS EMPLOYMENT SERVICES AND SELECTIONS, with its headquarters in our Campus. Through this association we can organize pool recruitment drives with large footfall as per the requirement.
-					<span>We strongly believe that the Placement process is not just a yearly affair, but is an on-going relationship between an Institute and the organization. I would like to thank the industry for its kind patronage and successful associations with us year after year and look forward to similar 'tie-ups' in future. </span>
+					<p>XIE has firm focus on understanding the dynamics of the Industry and provide students not only experiential learning and Technology education but being a Jesuit institution we focus on the wholistic development of the student by inculcating in them 4cs - Commitment, Conscience, Compassion & Competence.
+
 					</p>
 				</div>
 				<div class="clearfix"> </div>
@@ -184,23 +189,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
 					<ul>
 						<li>
-							<a href="#" class="twitter"> </a>
+							<a href="https://twitter.com/csi_xie" class="twitter"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter facebook"> </a>
+							<a href="https://www.facebook.com/pages/category/School/Xavier-Institute-Of-Engineering-Mahim-Mumbai-148763035156288/" class="twitter facebook"> </a>
+						</li>
+						
+						<li>
+							<a href="https://in.pinterest.com/" class="twitter pinterest"> </a>
 						</li>
 						<li>
-							<a href="#" class="twitter chrome"> </a>
+							<a href="https://www.linkedin.com/school/xavier-institute-of-engineering/?originalSubdomain=in" class="twitter linkedin"> </a>
 						</li>
-						<li>
-							<a href="#" class="twitter pinterest"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter linkedin"> </a>
-						</li>
-						<li>
-							<a href="#" class="twitter dribbble"> </a>
-						</li>
+						
 					</ul>
 				</div>
 				<div class="clearfix"></div>
