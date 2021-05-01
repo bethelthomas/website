@@ -5,7 +5,7 @@
 	
 	if ($username&&$password)
 	{
-		$mysqli = new mysqli('ftp.gear.host','xiecampusautomation\$xiecampusautomation','LDiqxnY6DjjPENkpZKLc4fbYsfmFWb9jMdZKwQxkdgYeoi63Z6G61zoJEi1W','details4');
+		$mysqli = new mysqli('details4','details4','Xie@campus','den1.mysql5.gear.host');
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
