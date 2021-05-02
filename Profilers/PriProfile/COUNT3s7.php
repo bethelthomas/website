@@ -57,16 +57,16 @@
 				  </thead>
 			   </tr>			   
  <?php		
- 
-$mysqli = new mysqli('localhost','root','','details');
-if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
-else
-{
-	echo "Connected to database";
-}
-
-mysqli_connect($mysqli,'localhost','root','');
-mysqli_select_db('details');
+  $mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
+		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
+		else
+		{
+			echo "";
+		}
+	
+mysqli_connect($mysqli,'remotemysql.com','NG73FMUEBv','AOMDJxJRXe');
+mysqli_select_db('NG73FMUEBv');
 if(isset($_POST['s7']))
 { 
 $Cbe = $_POST['cbe'];
