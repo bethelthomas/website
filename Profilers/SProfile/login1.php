@@ -7,7 +7,8 @@
 	{
 		//$mysqli = new mysqli('den1.mysql5.gear.host','details4','Xie@campus');
 		//remote
-		$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','NG73FMUEBv','AOMDJxJRXe');
+		$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		//'localhost','root','','details'
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
