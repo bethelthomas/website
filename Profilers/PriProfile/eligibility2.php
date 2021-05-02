@@ -26,14 +26,13 @@ $puaggregate = $_POST['puagg'];
 $beaggregate= $_POST['beagg'];
 $backlogs = $_POST['curback']; 
 $hisofbk = $_POST['hob'];
-
-$mysqli = new mysqli('localhost','root','','details');
-if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
-else
-{
-	echo "Connected to database";
-}
-
+$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
+		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
+		else
+		{
+			echo "";
+		}
 $sql = "SELECT * FROM basicdetails WHERE Approve=1 and Branch='$branch' and SSLC='$sslc' and PU/Dip='$puaggregate' and BE='$beaggregate' and Backlogs='$backlogs' and HofBacklogs='$hisofbk'"; 
 
 
