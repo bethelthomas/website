@@ -18,7 +18,8 @@
 <?php
 $id = $_POST["id"];
 $dob = $_POST["DOB"];
-$mysqli = new mysqli('localhost','root','','details');
+$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
