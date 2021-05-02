@@ -1,12 +1,13 @@
 <?php
 session_start();
-$mysqli = new mysqli('localhost','root','','details');
+$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
 			echo "Connected to database";
 		}
-
+	
 	$Username = $_SESSION['husername'];
 	$Password = $_POST['Password'];
 	$repassword = $_POST['repassword'];
