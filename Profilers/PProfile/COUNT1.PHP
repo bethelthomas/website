@@ -16,12 +16,12 @@
 <body>
 <center>
 <?php
+		  $mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
 		
-		$mysqli = new mysqli('localhost','root','','details');
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
-			echo "Connected to database";
+			echo "";
 		}
 	
 if(isset($_POST['submit']))
