@@ -8,14 +8,14 @@
 <?php 	
 	if ($pusername&&$password)
 	{
-				$mysqli = new mysqli('den1.mysql5.gear.host','details4','Xie@campus','details4');
-
+		 $mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
-			echo "Connected to database";
+			echo "";
 		}
-		
+	
 		$query = mysqli_query($mysqli,"SELECT * FROM plogin WHERE Username='$pusername'");
 		
 		$numrows = mysqli_num_rows($query);
