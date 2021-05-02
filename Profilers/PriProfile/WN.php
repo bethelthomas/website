@@ -4,14 +4,13 @@
   $message = $_POST['Message'];
   if(isset($_POST['submit']))
   {
-    
-$mysqli = new mysqli('localhost','root','','details');
-if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
-else
-{
-	echo "Connected to database";
-}
+ $mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
 		
+		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
+		else
+		{
+			echo "";
+		}
 		if($query = mysqli_query($mysqli,"INSERT into `comm`.`prim`(`Subject`,`Message`,`Images`) VALUES('$subject','$message','$images')"))
 			echo "Message has been Posted";
 		else
