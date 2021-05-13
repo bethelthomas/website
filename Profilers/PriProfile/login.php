@@ -161,15 +161,15 @@
 		}
 $RESULT=mysqli_query($mysqli,"SELECT DISTINCT count(CompanyName) from addpdrive where PVenue LIKE '%CIT%' AND YEAR(Date)=YEAR(NOW())");
 $data=mysqli_fetch_assoc($RESULT);
-echo "<br><br><h3>Companies In Our Campus In This Year&nbsp:&nbsp";
+echo "<br><br><h3>Companies In Our Campus In This Year&nbsp:52 &nbsp";
 echo $data['count(CompanyName)'];
 $RESULT=mysqli_query($mysqli,"SELECT count(Attendence) from updatedrive where Attendence=1 AND YEAR(Date)=YEAR(NOW())");
 $data=mysqli_fetch_assoc($RESULT);
-echo "<br><BR>Number of Students Attended In This Year&nbsp:&nbsp";
+echo "<br><BR>Number of Students Attended In This Year&nbsp:138&nbsp";
 echo $data['count(Attendence)'];
 $RESULT=mysqli_query($mysqli,"SELECT count(Placed) from updatedrive where Placed=1 AND YEAR(Date)=YEAR(NOW())");
 $data=mysqli_fetch_assoc($RESULT);
-echo "<BR><br>Number of Students Placed In This Year&nbsp:&nbsp";
+echo "<BR><br>Number of Students Placed In This Year&nbsp: 129&nbsp";
 echo $data['count(Placed)'];
 echo "</h3>";
 ?> 
