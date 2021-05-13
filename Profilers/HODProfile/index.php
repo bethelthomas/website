@@ -39,7 +39,7 @@
                   <label class="control-label templatemo-block">Branch</label>
                   <select class="form-control" name="Branch">
                     <option value="select">Branch</option>
-                    <option value="EXTC">Basic Science</option>
+                    <option value="EXTC">EXTC</option>
                     <option value="IT">ISE</option>
                     <option value="CSE">CSE</option>
                      </select>
