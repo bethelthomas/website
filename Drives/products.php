@@ -109,7 +109,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<h4>Tata Consultency Services</h4>
 							<p></p>
 							<div class="see-button">
-								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.tcs.com/" role="button">See More</a>
+								<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://www.tcs.com/about-us" role="button">See More</a>
 							</div>
 						</div>
 						<div class="clearfix"></div>
@@ -134,7 +134,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="products-text">
 							<h4>Google</h4>
 							<p></p>
-							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="3.php" role="button">See More</a>
+							<a class="btn btn-primary btn-lg see-button hvr-shutter-out-horizontal" href="https://careers.google.com/how-we-hire/" role="button">See More</a>
 						</div>
 						<div class="clearfix"></div>
 					</div>
