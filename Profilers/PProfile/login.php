@@ -106,8 +106,8 @@
               <i class="fa fa-times"></i>
               <h2 class="text-uppercase">Placement records</h2>
               <h3 class="text-uppercase">1)IT 2)COMP 3)EXTC</h3><hr>
-		    <div class="progress"><p>COMPS</p>
-                <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"><p>IT</p></div>
+		    <div class="progress">
+                <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
               </div>
               <div class="progress">
                 <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 50%;"></div>
