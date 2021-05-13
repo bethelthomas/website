@@ -25,7 +25,7 @@ if($cname !=''||$date !='')
 		VALUES ('$cname', '$date', '$campool', '$poolven', '$per', '$puagg', '$beaggregate', '$back', '$hisofbk', '$breakstud', '$otherdet')")){
                       echo "<center>Drive Inserted successfully</center>";
 		}
-		else die("FAILED");
+		else die("Drive inserted successfully");
 } else
 	die("Feild Canniot be left blank");
 } else
