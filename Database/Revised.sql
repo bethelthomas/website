@@ -208,7 +208,7 @@ CREATE TABLE IF NOT EXISTS `plogin` (
 --
 
 INSERT INTO `plogin` (`Id`, `Name`, `Username`, `Password`, `Email`, `Question`, `Answer`) VALUES
-(1, 'Rohini', 'rohini', 'rohini', 'rh@gmail.com', 'What is your fav spot?', 'mangalore');
+(1, 'Naveen', 'Naveen', 'Naveen', 'naveen@gmail.com', 'What is your fav spot?', 'mangalore');
 
 -- --------------------------------------------------------
 
