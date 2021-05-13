@@ -39,12 +39,12 @@
         <header class="templatemo-site-header">
           <div class="square"></div>
           <?php
-		  $Welcome = "Swasdi!!! How are You?";
+		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['pusername']. "</h1>";
 		  ?>>
         </header>
         <div class="profile-photo-container">
-          <img src="images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">  
+          <img src="images/tpo.PNG" alt="Profile Photo" class="img-responsive">  
           <div class="profile-photo-overlay"></div>
         </div>      
         <!-- Search box -->
@@ -104,8 +104,8 @@
             </div>
             <div class="templatemo-content-widget white-bg col-1">
               <i class="fa fa-times"></i>
-              <h2 class="text-uppercase">Dictum</h2>
-              <h3 class="text-uppercase">Sedvel Erat Non</h3><hr>
+              <h2 class="text-uppercase">Placement records</h2>
+              <h3 class="text-uppercase">1)IT 2)COMP 3)EXTC</h3><hr>
               <div class="progress">
                 <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
               </div>
