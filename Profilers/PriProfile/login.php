@@ -44,7 +44,7 @@
 		  ?>
         </header>
         <div class="profile-photo-container">
-          <img src="images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">  
+          <img src="images/principle.PNG" alt="Profile Photo" class="img-responsive">  
           <div class="profile-photo-overlay"></div>
         </div>      
         <!-- Search box -->
