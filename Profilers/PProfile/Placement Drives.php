@@ -118,7 +118,7 @@
                   </div>        
                 </div>                
               </div> 
-				<div class="templatemo-content-widget orangeeee-bg">
+			<!--<div class="templatemo-content-widget orangeeee-bg">
                 <i class="fa fa-times"></i>                
                 <div class="media">
                   <div class="media-left">
@@ -131,7 +131,7 @@
                     <p>View the Eligibility Criteria of Companies Visited to Our Campus</p>  
                   </div>        
                 </div>                
-              </div> 			  
+              </div> 	-->  
 				<div class="templatemo-content-widget oranggge-bg">
                 <i class="fa fa-times"></i>                
                 <div class="media">
