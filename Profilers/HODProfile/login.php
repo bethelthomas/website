@@ -104,8 +104,8 @@
             </div>
             <div class="templatemo-content-widget white-bg col-1">
               <i class="fa fa-times"></i>
-              <h2 class="text-uppercase">Progress</h2>
-              <h3 class="text-uppercase">Infined</h3><hr>
+              <h2 class="text-uppercase">Drive Progress</h2>
+              <h3 class="text-uppercase">1)Comp 2)IT 3)EXTC</h3><hr>
               <div class="progress">
                 <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;"></div>
               </div>
