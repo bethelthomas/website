@@ -59,7 +59,7 @@
 	        </form>
 		</div>
 		<div class="templatemo-content-widget templatemo-login-widget templatemo-register-widget white-bg">
-			<p>Not a registered user yet? <strong><a href="register.php" class="blue-text">Sign up now!</a></strong></p>
+			<p>Not a registered user yet? <strong><a href="Register.php" class="blue-text">Sign up now!</a></strong></p>
 		</div>
         <div class="templatemo-content-widget templatemo-login-widget templatemo-register-widget white-bg">
 			<p>Can't Access Account? <strong><a href="Forgot Password.php" class="blue-text">Reset Password!</a></strong></p>
