@@ -1,6 +1,11 @@
 <?php
-$connect = mysql_connect("localhost", "root", ""); // Establishing Connection with Server
-mysql_select_db("details"); // Selecting Database from Server
+$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
+		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
+		else
+		{
+			echo "";
+		} // Selecting Database from Server
 if(isset($_POST['submit']))
 { 
 $usn = $_POST['usn'];
@@ -13,7 +18,7 @@ $wt = $_POST['WrittenTest'];
 $gd = $_POST['GD'];
 $tech = $_POST['Tech'];
 $placed = $_POST['Placed'];
-if($query = mysql_query("INSERT INTO updatedrive(USN, Name, CompanyName, Date, Attendence, WT, GD, Techical, Placed)
+if($query = mysqli_query("INSERT INTO updatedrive(USN, Name, CompanyName, Date, Attendence, WT, GD, Techical, Placed)
 		VALUES('$usn', '$name', '$comname', '$date', '$attend', '$wt', '$gd', '$tech', '$placed')"))
         {
                       echo "<center>Data Inserted successfully...!!</center>";
