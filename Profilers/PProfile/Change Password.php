@@ -39,12 +39,12 @@
         <header class="templatemo-site-header">
           <div class="square"></div>
 <?php
-		  $Welcome = "Ahoj!!";
+		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['pusername']. "</h1>";
 		  ?>
         </header>
         <div class="profile-photo-container">
-          <img src="images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">
+          <img src="images/tpo.PNG" alt="Profile Photo" class="img-responsive">
           <div class="profile-photo-overlay"></div>
         </div>
         <!-- Search box -->
