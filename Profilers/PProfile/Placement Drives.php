@@ -146,7 +146,7 @@
                   </div>        
                 </div>                
               </div>        			  
-              <div class="templatemo-content-widget orangge-bg">
+         <!--     <div class="templatemo-content-widget orangge-bg">
                 <i class="fa fa-times"></i>
                 <div class="media">
                   <div class="media-left">
@@ -161,7 +161,7 @@
                 </div>                
               </div>            
             </div>
-          </div>
+          </div> -->
           <footer class="text-right">
             <p>Copyright &copy; 2021
             | Designed by <a href="" target="_parent">Xavierites</a></p>
