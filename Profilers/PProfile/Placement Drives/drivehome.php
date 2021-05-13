@@ -12,8 +12,8 @@
 <html lang="en">
   <head>
     <!--favicon-->
-        <link rel="shortcut icon" href="../favicon.ico" type="image/icon">
-        <link rel="icon" href="../favicon.ico" type="image/icon">
+        <link rel="shortcut icon" href="../favicon.png" type="image/icon">
+        <link rel="icon" href="../favicon.png" type="image/icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">  
@@ -48,7 +48,7 @@
 		  ?>
         </header>
         <div class="profile-photo-container">
-          <img src="../images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">  
+          <img src="../images/tpo.PNG" alt="Profile Photo" class="img-responsive">  
           <div class="profile-photo-overlay"></div>
         </div>      
         <!-- Search box -->
@@ -78,7 +78,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-                <li><a href="../../../Homepage/index.php">Home CIT-PMS</a></li>
+                <li><a href="../../../Homepage/index.php">Home XIE</a></li>
                 <li><a href="../../../Drives/index.php">Drives Home</a></li>
                 <li><a href="../Notif.php">Notifications</a></li>
                 <li><a href="Change Password.php">Change Password</a></li>
@@ -103,7 +103,7 @@
    <td><a  class="white-text templatemo-sort-by">Backlogs</a></td>
    <td><a  class="white-text templatemo-sort-by">History of Backlogs </a></td>
  
-			      <td><a  class="white-text templatemo-sort-by">Deatin years</a></td>
+			      <td><a  class="white-text templatemo-sort-by">Detain years</a></td>
 			     
 				   <td><a  class="white-text templatemo-sort-by">USN </a></td>
 				  <td><a  class="white-text templatemo-sort-by">Name</a></td>
@@ -117,11 +117,12 @@
 			   <?php
 			
 $num_rec_per_page=15;
-$mysqli = new mysqli('localhost','root','','details');
+		    $mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
-			echo "Connected to database";
+			echo "";
 		}
 if (isset($_GET["page"])) { $page  = $_GET["page"]; } else { $page=1; }; 
 $start_from = ($page-1) * $num_rec_per_page; 
@@ -170,11 +171,12 @@ while ($row = mysqli_fetch_array($rs_result))
 			  <?php 
 		
 $num_rec_per_page=15;
-$mysqli = new mysqli('localhost','root','','details');
+	   $mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
 		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
 		else
 		{
-			echo "Connected to database";
+			echo "";
 		}
 $sql ="SELECT a.* , u.*
 From addpdrive a,updatedrive u
@@ -224,8 +226,8 @@ $prev = $currentpage-1;
             
        
           <footer class="text-right">
-           		<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+           		<p>Copyright &copy; 2021 | Developed by
+              <a href="" target="_parent">Xavierites</a>
 			  </p>
           </footer>         
         </div>
