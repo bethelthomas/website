@@ -99,7 +99,7 @@
             <div class="templatemo-content-widget white-bg col-1 text-center">
               <i class="fa fa-times"></i>
               <h4 class="text-uppercase">Manage Projects</h4>
-              <h6 class="text-uppercase margin-bottom-10">Design Project</h6>
+              <h6 class="text-uppercase margin-bottom-10">Project</h6>
               <img src="images/bicycle.jpg" alt="Bicycle" class="img-circle img-thumbnail">
             </div>
             <div class="templatemo-content-widget white-bg col-1">
