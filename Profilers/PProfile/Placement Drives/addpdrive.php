@@ -11,11 +11,11 @@
   
   <head>
     <!--favicon-->
-        <link rel="shortcut icon" href="../favicon.ico" type="image/icon">
-        <link rel="icon" href="../favicon.ico" type="image/icon">
+        <link rel="shortcut icon" href="../favicon.png" type="image/icon">
+        <link rel="icon" href="../favicon.png" type="image/icon">
       
-    <link rel="shortcut icon" href="favicon.ico" type="image/icon">
-    <link rel="icon" href="favicon.ico" type="image/icon">
+    <link rel="shortcut icon" href="favicon.png" type="image/icon">
+    <link rel="icon" href="favicon.png" type="image/icon">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,12 +42,12 @@
         <header class="templatemo-site-header">
           <div class="square"></div>
          <?php
-		  $Welcome = "Hello!!! How are You?";
+		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['pusername']. "</h1>";
 		  ?>
         </header>
         <div class="profile-photo-container">
-          <img src="../images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">
+          <img src="../images/tpo.PNG" alt="Profile Photo" class="img-responsive">
           <div class="profile-photo-overlay"></div>
         </div>
         <!-- Search box -->
@@ -77,7 +77,7 @@
           <div class="row">
             <nav class="templatemo-top-nav col-lg-12 col-md-12">
               <ul class="text-uppercase">
-               <li><a href="../../../Homepage/index.php">Home CIT-PMS</a></li>
+               <li><a href="../../../Homepage/index.php">Home XIE</a></li>
                 <li><a href="../../../Drives/index.php">Drives Home</a></li>
                 <li><a href="../Notif.php">Notifications</a></li>
                 <li><a href="../Change Password.php">Change Password</a></li>
@@ -185,8 +185,8 @@
             </form>
           </div>
           <footer class="text-right">
-          		<p>Copyright &copy; 2015 CIT-PMS | Developed by
-              <a href="http://znumerique.azurewebsites.net" target="_parent">ZNumerique Technologies</a>
+          		<p>Copyright &copy; 2021 | Developed by
+              <a href="" target="_parent">Xavierites</a>
 			  </p>
           </footer>
         </div>
