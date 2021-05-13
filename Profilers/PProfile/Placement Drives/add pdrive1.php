@@ -1,10 +1,11 @@
 <?php
-$mysqli = new mysqli('localhost','root','','details');
-if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
-else
-{
-	echo "Connected to database";
-}
+$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
+		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
+		else
+		{
+			echo "";
+		}
 if(isset($_POST['submit']))
 { 
 $cname = $_POST['compny'];
