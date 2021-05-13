@@ -43,7 +43,7 @@
         <header class="templatemo-site-header">
           <div class="square"></div>
 <?php
-		  $Welcome = "Bomjour!!!";
+		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['pusername']. "</h1>";
 		  ?>
         </header>
@@ -122,7 +122,7 @@
                 <i class="fa fa-times"></i>                
                 <div class="media">
                   <div class="media-left">
-                    <a href="Placement Drives/Companydetails.php">
+                    <a href="Placement Drives/CompanyDetails.php">
                       <img class="media-object img-circle" src="images/sunset33.jpg" alt="Sunset" width="100px" height="100px">
                     </a>
                   </div>
