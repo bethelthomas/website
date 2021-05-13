@@ -40,7 +40,7 @@
                   <select class="form-control" name="Branch">
                     <option value="select">Branch</option>
                     <option value="EXTC">EXTC</option>
-                    <option value="IT">ISE</option>
+                    <option value="IT">IT</option>
                     <option value="CSE">CSE</option>
                      </select>
                 </div>
