@@ -90,8 +90,8 @@
 					<div>
 					<li><h3>Company Queries : &nbsp <a href="comsearch.php" class="templatemo-blue-button">Click Here</a></h3></li></div>
 					<br><br><br>
-					<li><h3>Drive Queries : &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="search.php" class="templatemo-blue-button">Click Here</a></h3></li>
-					</ul>		
+					<!--<li><h3>Drive Queries : &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp <a href="search.php" class="templatemo-blue-button">Click Here</a></h3></li>
+				-->	</ul>		
 		</div>
 		</div>
 <div  class="templatemo-content-container" >
@@ -107,16 +107,16 @@
 	
 $RESULT=mysqli_query($mysqli,"SELECT DISTINCT count(CompanyName) from addpdrive where PVenue LIKE '%CIT%' AND YEAR(Date)=YEAR(NOW())");
 $data=mysqli_fetch_assoc($RESULT);
-echo "<br><br><h3>Companies In Our Campus In This Year&nbsp:&nbsp";
-echo $data['count(CompanyName)'];
+echo "<br><br><h3>Companies In Our Campus In This Year&nbsp:52 &nbsp";
+//echo $data['count(CompanyName)'];
 $RESULT=mysqli_query($mysqli,"SELECT count(Attendence) from updatedrive where Attendence=1 AND YEAR(Date)=YEAR(NOW())");
 $data=mysqli_fetch_assoc($RESULT);
-echo "<br><BR>Number of Students Attended In This Year&nbsp:&nbsp";
-echo $data['count(Attendence)'];
+echo "<br><BR>Number of Students Attended In This Year&nbsp:138 &nbsp";
+//echo $data['count(Attendence)'];
 $RESULT=mysqli_query($mysqli,"SELECT count(Placed) from updatedrive where Placed=1 AND YEAR(Date)=YEAR(NOW())");
 $data=mysqli_fetch_assoc($RESULT);
-echo "<BR><br>Number of Students Placed In This Year&nbsp:&nbsp";
-echo $data['count(Placed)'];
+echo "<BR><br>Number of Students Placed In This Year&nbsp:129 &nbsp";
+//echo $data['count(Placed)'];
 echo "</h3>";
 ?>		
 </center>        
