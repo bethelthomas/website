@@ -91,12 +91,12 @@
                   <label class="control-label templatemo-block">Branch of Study</label>
                   <select name="Branch" class="form-control">  
 					   <option value="">Branch</option>
-                    <option value="ISE">ISE</option>
+                    
                     <option value="CSE">CSE</option>
-                    <option value="EEE">EEE</option>
-                    <option value="ECE">ECE</option>
-                    <option value="ME">ME</option>
-                    <option value="CVE">CVE</option>
+                    
+                   
+                    <option value="IT">IT</option>
+                    <option value="EXTC">EXTC</option>
                   </select>
                 </div>			                
 				<div class="col-lg-6 col-md-6 form-group">
