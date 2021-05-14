@@ -69,7 +69,7 @@
             <li><a href="Students Eligibility.php"><i class="fa fa-bar-chart fa-fw"></i>Check Students Eligibility</a></li>
             <li><a href="Placement Drives.php"><i class="fa fa-database fa-fw"></i>Placement Drive Details</a></li>
             <li><a href="manage-users.php" ><i class="fa fa-users fa-fw"></i>Student Details</a></li>
-            <li><a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>
+           <!-- <li><a href="preferences.php"><i class="fa fa-sliders fa-fw"></i>Preferences</a></li>-->
             <li><a href="logout.php"><i class="fa fa-eject fa-fw"></i>Sign Out</a></li>
           </ul>  
         </nav>
