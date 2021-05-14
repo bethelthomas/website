@@ -105,7 +105,7 @@
               
               </div>
               <div class="form-group text-right">
-                <button type="submit" class="templatemo-blue-button">Update</button>
+                <button type="submit" class="templatemo-blue-button" href=""../../Profilers/HODProfile/login.php"">Update</button>
                 <button type="reset" class="templatemo-white-button">Reset</button>
               </div>                           
             </form>
