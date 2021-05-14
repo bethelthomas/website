@@ -39,7 +39,7 @@
         <header class="templatemo-site-header">
           <div class="square"></div>
 <?php
-		  $Welcome = "Ahoj!!";
+		  $Welcome = "Welcome";
           echo "<h1>" . $Welcome . "<br>". $_SESSION['username']. "</h1>";
 		  ?>
         </header>
