@@ -113,7 +113,7 @@
             <div class="templatemo-content-widget white-bg col-1 text-center">
               <i class="fa fa-times"></i>
               <h4 class="text-uppercase">Assigned Projects</h4>
-              <h5 class="text-uppercase margin-bottom-10">Projects (Beta)</h5>
+              <h5 class="text-uppercase margin-bottom-10">Projects</h5>
               <img src="images/bicycle.jpg" alt="Bicycle" class="img-circle img-thumbnail">
             </div>
             <div class="templatemo-content-widget white-bg col-1">
