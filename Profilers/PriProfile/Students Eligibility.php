@@ -42,7 +42,7 @@
 		  ?>
         </header>
         <div class="profile-photo-container">
-          <img src="images/profile-photo.jpg" alt="Profile Photo" class="img-responsive">  
+          <img src="images/principle.PNG" alt="Profile Photo" class="img-responsive">  
           <div class="profile-photo-overlay"></div>
         </div>      
         <!-- Search box -->
@@ -98,13 +98,10 @@
                   <label class="control-label templatemo-block">Branch of Study</label>
                   <select name="Branch" class="form-control">  
 					   <option value="">Branch</option>
-                    <option value="ISE">ISE</option>
+                    <option value="IT">IT</option>
                     <option value="CSE">CSE</option>
-                    <option value="EEE">EEE</option>
-                    <option value="ECE">ECE</option>
-                    <option value="ME">ME</option>
-                    <option value="CVE">CVE</option>
-                  </select>
+                    <option value="EXTC">EXTC</option>
+                    </select>
                 </div>			                
 				<div class="col-lg-6 col-md-6 form-group">
                   <label for="sslc">SSLC/10th Aggregate</label>
