@@ -4,13 +4,13 @@
   
  $uploadOk = 1;
 $imageFileType = pathinfo($target_file,PATHINFO_EXTENSION);
-$connect =
-$mysqli = new mysqli('localhost','root','','details');
-if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
-else
-{
-	echo "Connected to database";
-}
+$connect =		$mysqli = new mysqli('remotemysql.com','NG73FMUEBv','AOMDJxJRXe','NG73FMUEBv');
+		
+		if($mysqli->connect_error) { die('Error'.('.$mysqli->connect_errno.').'$mysqli->connect_error');}
+		else
+		{
+			echo "";
+		}
 		$sql = mysqli_query($mysqli"INSERT INTO image VALUES('','$target_file')");
     if($sql){
     echo "Uploaded to Database";
