@@ -91,9 +91,9 @@
               <p></p>
               <p>Hello Officer! Have a great day with us! With XIE Account, You can add drives, Send Notifications and View the Eligibility Criteria of Students.</p>
               <p>Hope you enjoy doing that. Greetings!!</p>
-              <p><a href="PlacementDrives.php">Placement Drives</a></p>
+             <!-- <p><a href="PlacementDrives.php">Placement Drives</a></p>-->
               <p><a href="manage-users.php">View Students</a></p>
-              <p><a href="preferences.php">Update your Profile</a></p>
+             <!-- <p><a href="preferences.php">Update your Profile</a></p>-->
                
             </div>
             <div class="templatemo-content-widget white-bg col-1 text-center">
